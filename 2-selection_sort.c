@@ -4,8 +4,8 @@
 
 /**
  * swap - swaps the elements in array
- * @xp: pointer to the integer in an array
- * @yp: pointer to the integer in an array
+ * @a: pointer to the integer in an array
+ * @b: pointer to the integer in an array
  * Return: 0
  */
 void swap(int *a, int *b)
